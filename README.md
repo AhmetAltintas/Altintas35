@@ -46,7 +46,7 @@
 <a href="https://www.microsoft.com/tr-tr/sql-server/sql-server-downloads" target="_blank"><img style="margin: 10px" src="https://www.commvault.com/wp-content/uploads/2019/08/sql-server_logo.jpg?quality=80&w=930" alt="Microsoft SQL Server" height="50" /></a>  
 </div>
 
-</td><td valign="top" width="33%">
+</td></tr></table>  
 
 <br/>  
 
