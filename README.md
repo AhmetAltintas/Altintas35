@@ -6,8 +6,6 @@
 ### <div align="center">I'm Ahmet, a full-stack developer 👨‍💻</div>  
   
 
-- 🌱 I’m currently learning C#, Angular  
-  
 
 <br/>  
 
